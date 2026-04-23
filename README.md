@@ -28,7 +28,6 @@
 
 ##### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=FF5D01)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=38B2AC)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
@@ -46,9 +45,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000000?style=flat&logo=insomnia&logoColor=5849BE)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C21325)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 
 ---
 
