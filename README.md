@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Computer Science student.
+### I'm a Computer Science student.
 
 - 🎓 Currently pursuing a degree in **Computer Science** at Universidad Nacional de Trujillo.
 - 👨‍💻 Learning everything about Frontend and Backend technologies.
